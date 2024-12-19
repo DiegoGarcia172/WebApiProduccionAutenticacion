@@ -1,0 +1,6 @@
+@WebApiProduccionAutenticacion_HostAddress = http://localhost:5190
+
+GET {{WebApiProduccionAutenticacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
